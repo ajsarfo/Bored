@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="color_status">@color/black</color>
+    <color name="color_background">@color/black</color>
+    <color name="color_on_background">#F2F2F2</color>
+
+    <color name="color_idea_background">#2A2A2A</color>
+
+    <color name="color_divider">#4F4F4F</color>
+
+    <color name="color_network_error_text">@android:color/darker_gray</color>
+</resources>

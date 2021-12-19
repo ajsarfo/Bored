@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Bored?</string>
+
+    <string name="heading_1">are you</string>
+    <string name="heading_2">bored?</string>
+    <string name="give_me_another_one">Give me another one</string>
+
+    <string name="activity_title">%s activity</string>
+    <string name="difficulty">This activity is %d more difficult than others</string>
+    <string name="get_task">Get Task</string>
+
+    <string name="reload">Reload</string>
+    <string name="connection_check_1">Connection error while trying to reload page.</string>
+    <string name="connection_check_2">Please check your internet connection.</string>
+    <string name="connection_error">Connection Error</string>
+
+    <string name="admob_test_banner_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_test_interstitial_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="admob_test_reward_video_id">ca-app-pub-3940256099942544/5224354917</string>
+
+
+    <!--
+     <string name="admob_banner_main">@string/admob_test_banner_id</string>
+     <string name="admob_banner_detail">@string/admob_test_banner_id</string>
+
+     <string name="admob_interstitial_id">@string/admob_test_interstitial_id</string>
+     -->
+
+    <string name="admob_banner_main">ca-app-pub-6150813452529727/1676931257</string>
+    <string name="admob_banner_detail">ca-app-pub-6150813452529727/4104440581</string>
+
+    <string name="admob_interstitial_id">ca-app-pub-6150813452529727/1912734979</string>
+
+</resources>
